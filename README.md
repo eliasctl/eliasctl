@@ -1,4 +1,4 @@
-<h1>Salut, je suis Elias 👋👨‍💻<h1\>
+<h1>Salut, je suis Elias 👋👨‍💻<h1>
 <hr>
     
 - 👨‍🎓 I'm an SupInfo Paris Student
