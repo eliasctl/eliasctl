@@ -6,7 +6,7 @@
       <p>➜ 🌳 J'aime le calme</p>
 			<p>➜ 📬 Vous souhaitez me contacter ? <a href="mailto:elias@elidev.fr">elias@elidev.fr</a></p>
       <p>➜ 🌐 Se rendre sur mon site internet ? <a href="https://www.elidev.fr">https://www.elidev.fr</a></p>
-      <p>➜  <a target="_blank"href="https://www.linkedin.com/in/elias-moussa-osman-b62653253/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+      <p>➜  <a target="_blank"href="https://www.linkedin.com/in/elias-castel-moussa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 	<br>
 	<p>➜ 👥 Mon copilot de Dev <a href="https://github.com/Willydur">Willydur</a> </p>
 			<br>
